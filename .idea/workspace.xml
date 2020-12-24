@@ -3,8 +3,15 @@
   <component name="ChangeListManager">
     <list default="true" id="6fcb6d77-2f1a-4d88-9e1f-d1a42a2e1612" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/template.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/template.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/bundle-main-5bcd28ee1f5d97545152.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/bundle-main-5bcd28ee1f5d97545152.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/bundle-main-5bcd28ee1f5d97545152.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/bundle-main-5bcd28ee1f5d97545152.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/bundle-test-b0a4abf88875f036f3ac.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/bundle-test-b0a4abf88875f036f3ac.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/test.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/test.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,6 +74,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
       <option name="TEST_OBJECT" value="class" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -115,7 +133,7 @@
       <workItem from="1604434611066" duration="2645000" />
       <workItem from="1604496546224" duration="2092000" />
       <workItem from="1604584689795" duration="5458000" />
-      <workItem from="1608825319719" duration="57000" />
+      <workItem from="1608825319719" duration="340000" />
     </task>
     <servers />
   </component>
